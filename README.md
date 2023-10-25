@@ -1,7 +1,7 @@
 - Hi, I’m @ovopax
 - I’m interested in linux
-- I’m currently learning git and some system maintenance on my home server.
-- I’m looking to collaborate on, uuuhhh.
+- I’m currently learning git and some system maintenance.
+- I’m looking to collaborate on, uuuh.
 - How to reach me, maybe you can send me a message here
 
 <!---
